@@ -17,7 +17,7 @@ A function named colour was added to set the colours for a domain, that allow to
 +  .scaleThreshold<number, string>()
 +  .domain([0,15,50,100,1000,5000,10000,40000])
 +  .range([
-+    "#eeeec3;",
++    "#eeeec3",
 +    "#e8cd7e",
 +    "#eda63f",
 +    "#ef9b30",
